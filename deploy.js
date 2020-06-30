@@ -3,8 +3,8 @@ const Web3=require('web3');
 const {interface,bytecode}=require('./compile');
 
 const provider=new HDWalletProvider(
-  'hour random antique tower spend satisfy sad lumber possible file keen orchard',
-  'https://rinkeby.infura.io/v3/a8c6d13db2c64eaba40177a6212ab1b4'
+  'METAMASK PARSEPHASE',
+  'YOUR INFURA-API KEY'
 );
 
 const web3=new Web3(provider);
