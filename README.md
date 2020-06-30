@@ -4,7 +4,7 @@
 
 ### installing solc,mocha,ganche-cli,hd-wallet.
 ### Looking at the object produced after compailation.
-### Understanding that compailation of smart contract produces bytecode---->used to deploy into blockchain and ABI(interface)---->used to interact with contract with JS.
+### Understanding that compailation of smart contract produces bytecode---->used to deploy into blockchain and ABI(interface)---->used to interact with contract through JS.
 ### Looking at the object produced after deployment.
 ### Knowing about mocha test framework...basically 3 functions it,describe and beforeeach
 ### difference between trasaction function and call functions
